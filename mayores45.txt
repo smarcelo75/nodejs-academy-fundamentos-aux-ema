@@ -1,2 +1,0 @@
-Nombre: Marcelo Apellido: Serrano Edad: 46
-Nombre: Andrea Apellido: Silva Edad: 50
